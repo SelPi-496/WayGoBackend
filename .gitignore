@@ -25,3 +25,4 @@ Thumbs.db
 
 # Environment variables
 .env
+src/main/resources/waygo-9ff8d-firebase-adminsdk-*.json
